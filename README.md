@@ -1,4 +1,4 @@
-# binarydecimalcalulator
+
 
 <h1>Simple binary and decimal conversor</h1>
 <p>I'm currently learning JavaScript and i saw this proyect and i tried to remake it.</p>
